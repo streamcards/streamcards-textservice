@@ -19,6 +19,10 @@ These are the features used in the experiment:
 
 Interestingly, this very README.md was written using this service!
 
+And it's slim! Just peek at [module.js](https://raw.githubusercontent.com/streamcards/textservice/master/app/scripts/module.js) - it's just about a dozen lines of code. Everything else comes from dependencies. In fact, the business logic is quite faint, indeed.
+
+So is [index.html](https://github.com/streamcards/textservice/blob/master/app/index.html) - thanks to web components, the uglier part of markup is really staying out of your way.
+
 ##Setup
 
 You'll need [node & npm][18], [bower][14] and [grunt][13] setup and running on your machine to try this out!
