@@ -4,20 +4,18 @@ This is a very minimalistic re-implementation of the excellent [stackedit.io][0]
 
 It resembles a service for entering text in [markdown][12] format, while getting an html preview of the result in real time.
 
-As sugaring (resulting from experience of losing data..), everthing you enter, is instantly saved into [`localStorage`][17] of your browser.
+As sugaring (resulting from experience of losing data..), everything you enter is instantly saved into [`localStorage`][17] of your browser.
 
 ##Features
 
-These are it's features for the ones who are interested:
+These are the features used in the experiment:
 
 * Setup / built with [grunt][13], [bower][14]
 * Core technologies: [AngularJS][10] & [Polymer][11]
 * the input is rendered as a stream, following the [reactive programming paradigm][15] via [RxJS][16]
 * using [ACE][1] editor for the - well - editing stuff
-* [pagedown][4] Markdown-Converter to convert markdown into html on the fly
-* data is stored in the [`localStorage`][17] of your browser
-* [ACE][1] is a rich text, syntax-aware editor for the web
 * we're using [Pagedown][4] to convert markdown into html
+* data is stored in the [`localStorage`][17] of your browser
 
 Interestingly, this very README.md was written using this service!
 
