@@ -1,4 +1,4 @@
-#Minimalistic textservice converting md to html on the fly
+#Textservice markdown editor
 
 This is a very minimalistic re-implementation of the excellent [stackedit.io][0] markdown editor show case.
 
