@@ -1,10 +1,10 @@
 #Textservice markdown editor
 
-This is a very minimalistic re-implementation of the excellent [stackedit.io][0] markdown editor show case.
+This is a very minimalistic re-implementation of the excellent [stackedit.io][0] markdown editor.
 
-It resembles a service for entering text in [markdown][12] format, while getting an html preview of the result in real time.
+You may enter text in [markdown][12] format and get an html preview of the result in real time. As sugaring (resulting from the experience of losing data once), everything you enter is instantly saved into [`localStorage`][17] of your browser.
 
-As sugaring (resulting from experience of losing data..), everything you enter is instantly saved into [`localStorage`][17] of your browser.
+The main motivation behind this experiment is to show how well [polymer web component elements][11] along with the very exciting [reactive programming paradigm][15], all embed within [angular's model/view architecture][10] work together. And it just works!
 
 ##Features
 
