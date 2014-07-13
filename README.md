@@ -23,7 +23,7 @@ Interestingly, this very README.md was written using this service!
 
 ##Setup
 
-You'll need [node & npm][18], [bower][] and [grunt] setup and running on your machine to try this out!
+You'll need [node & npm][18], [bower][14] and [grunt][13] setup and running on your machine to try this out!
 
 If all prerequisites are met, clone the repo to your machine:
 
