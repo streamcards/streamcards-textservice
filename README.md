@@ -28,6 +28,7 @@ You'll need [node & npm][18], [bower][14] and [grunt][13] setup and running on y
 If all prerequisites are met, clone the repo to your machine:
 
     git clone git@github.com:streamcards/textservice.git
+    cd textservice
 
 Then install any dependency using npm and bower:
 
